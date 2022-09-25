@@ -2,7 +2,7 @@
 #include <WiFi.h>
 
 // REPLACE WITH YOUR RECEIVER MAC Address
-uint8_t broadcastAddress[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
+uint8_t broadcastAddress[] = {0x34,0x86,0x5D,0x3B,0x95,0x58};
 
 // Structure example to send data
 // Must match the receiver structure
